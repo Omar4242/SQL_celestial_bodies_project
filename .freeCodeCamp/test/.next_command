@@ -168,3 +168,5 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 git init
 git status
 git add .
+git commit -m "first commit"
+git add .
